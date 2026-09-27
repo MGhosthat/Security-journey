@@ -1,0 +1,12 @@
+Week 2 Progress Notes:
+Wrapped up the TCM Security Linux for Ethical Hackers course this week and spent some solid hours grinding through OverTheWire Bandit (Levels 0 through 15).
+
+Key Takeaways & Lessons Learned:
+
+File Permissions: Finally stopped treating chmod like random magic numbers and broke it down properly into owner, group, and others using binary logic.
+
+CLI Mastery: Used grep, find, and SSH extensively in Bandit to track down hidden files and passwords, which is way more practical than just reading theory.
+
+Process Management: Learned how background processes and ports operate under the hood in Linux.
+
+Next steps: Moving on to network services enumeration and building out the next phase of the roadmap.
